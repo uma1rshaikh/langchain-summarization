@@ -1,0 +1,23 @@
+3-Sentence Summary
+Artificial Intelligence (AI) is a field of computer science focused on developing systems 
+that can perform tasks requiring human intelligence, including technologies like machine learning 
+and natural language processing. The rise of generative AI has enabled machines to create original
+content, raising significant ethical concerns about data privacy, algorithmic bias, and 
+job displacement. As AI becomes more integrated into daily life, engineers and researchers 
+must ensure these technologies are transparent and aligned with human values while transforming 
+our interactions with technology.
+
+1-Sentence Summary
+Artificial Intelligence (AI) is a branch of computer science focused on developing systems that
+perform tasks requiring human intelligence, including generative AI that creates original content,
+while also raising ethical concerns about data privacy, bias, and job displacement as its
+integration into daily life increases.
+
+Analysis:
+
+3-sentence summary
+Follows a introduction -> current trend ->resolution structure. Easy and balanced to read
+
+1-sentense summary
+To match the constraint, the model used complex sentence structure 
+(using while and as) to infer the definition, the technology, and the concerns in a brief manner.
